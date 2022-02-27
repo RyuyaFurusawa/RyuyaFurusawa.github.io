@@ -55217,8 +55217,8 @@ $S:47}
 A.rY.prototype={
 aw(){return new A.HM(B.k)}}
 A.HM.prototype={
-K(a,b){var s=this,r="pic1.jpeg",q="\u30b5\u30f3\u30d7\u30eb\u30a4\u30d9\u30f3\u30c8",p="\u4f01\u696d",o=null,n=A.a([s.jT("event1.png","\u7d0d\u7a0e\u30bb\u30df\u30ca\u30fc\u958b\u50ac","\u884c\u653f"),s.jT("event2.png","\u304a\u82b1\u898b\u958b\u50ac","\u500b\u4eba"),s.jT(r,q,p),s.jT(r,q,p),s.jT(r,q,p),s.jT(r,q,p)],t.p),m=A.yq(B.bW,B.JB),l=A.abH(n,!0,!0,!0)
-return A.aaK(A.uf(m,new A.AP(new A.Ya(2,25,5,1),l,o,B.aA,!1,o,!0,B.e8,!1,o,6,B.ar,B.fn,o,B.a2,o),o),o,"")},
+K(a,b){var s=this,r=null,q=A.a([s.jT("event1.png","\u7d0d\u7a0e\u30bb\u30df\u30ca\u30fc\u958b\u50ac","\u884c\u653f"),s.jT("event2.png","\u304a\u82b1\u898b\u958b\u50ac","\u500b\u4eba"),s.jT("event3.png","\u30b9\u30de\u30db\u8b1b\u5ea7","\u884c\u653f"),s.jT("event4.jpeg","\u30ed\u30b1\u30c3\u30c8\u898b\u5b66","\u4f01\u696d"),s.jT("event5.png","\u304a\u91d1\u914d\u308a","\u500b\u4eba"),s.jT("event6.jpg","\u7fa4\u99ac\u306d\u3077\u305f\u796d\u308a","\u884c\u653f")],t.p),p=A.yq(B.bW,B.JB),o=A.abH(q,!0,!0,!0)
+return A.aaK(A.uf(p,new A.AP(new A.Ya(2,25,5,1),o,r,B.aA,!1,r,!0,B.e8,!1,r,6,B.ar,B.fn,r,B.a2,r),r),r,"")},
 jT(a,b,c){var s=null,r=t.p
 return A.ez(s,A.fU(A.a([A.n1(A.Rb("assets/img/"+a,B.cM),4),A.n1(A.fU(A.a([A.oD(c+"\u304b\u3089\u63d0\u4f9b",A.eJ(s,s,s,s,s,s,s,s,"kosugi",s,s,10,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.lP(5),A.oD(b,A.eJ(s,s,s,s,s,s,s,s,"kosugi",s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.W,B.R),1)],r),B.W,B.R),s,s,s,s,s,s,s,s)}}
 A.tt.prototype={
